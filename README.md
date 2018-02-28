@@ -19,4 +19,5 @@ Now, you can call the component with the tag `ionic-cpf`:
 	
 That will build:
 
+![Screen 01](https://raw.githubusercontent.com/marcelorafaelfeil/ionic-cpf/developer/example/assets/cpf-example-01.png)
 
